@@ -1,0 +1,11 @@
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.exe.config
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.exe
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.pdb
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.exe
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.pdb
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shubh\source\repos\PokemonConsoleApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.csproj.CopyComplete
