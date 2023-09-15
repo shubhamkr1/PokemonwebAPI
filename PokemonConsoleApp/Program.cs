@@ -12,7 +12,7 @@ namespace PokemonConsoleApp
         static async Task Main(string[] args)
         {
             string pokemonName;
-            Console.WriteLine("Pleaes enter the name of Pokemon:");
+            Console.WriteLine("Please enter the name of a Pokemon:");
             pokemonName = Console.ReadLine();
             string url = "https://pokeapi.co/api/v2/pokemon/" + pokemonName;
 
@@ -27,8 +27,8 @@ namespace PokemonConsoleApp
                
                 Console.WriteLine("This pokemon has following types: ");
                 foreach(var type in pokemon.Types )
-                {
-                    Console.WriteLine("type : " + type.type.name);
+                {               
+                    Console.WriteLine("type " +  type.slot + " :"+ type.type.name);
                     var typeRelations = await apiClient.GetTypeDataAsync(type.type.url);
                     if(typeRelations != null)
                     {
@@ -66,6 +66,7 @@ namespace PokemonConsoleApp
                     }
 
                 }
+                Console.WriteLine("Press any key to exit ...");
                 Console.ReadLine();
             }
             else
